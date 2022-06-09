@@ -1,4 +1,4 @@
-# ODiscord Invisible Mention
+
 Mention anyone but It's hidden/masked.
 
 ## Installation
@@ -15,5 +15,4 @@ NPM Packages:
  - user_id - The Id of the user to mention.
  - message - Your message on where to hide the mention payload thingy.
 
-## License
-MIT © I2rys
+Install npm first
